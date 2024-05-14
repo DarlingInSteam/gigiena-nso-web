@@ -1,0 +1,19 @@
+.logo {
+    width: auto;
+    height: auto;
+    max-width: 250px;
+}
+
+/*.banner {*/
+/*    width: 100%;*/
+/*    height: auto;*/
+/*}*/
+
+/*.container-banner {*/
+/*    margin-left: 0px;*/
+/*    margin-right: 0px;*/
+/*}*/
+
+.nav-link {
+    color: white !important;
+}
